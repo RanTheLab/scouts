@@ -1,0 +1,2 @@
+# scouts
+Miscellaneous scout things
